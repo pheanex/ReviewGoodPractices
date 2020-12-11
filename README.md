@@ -20,11 +20,7 @@ Explain both your suggested change and the reason for the change. Grounding your
 
 ## Make the code better, not perfect
 
-Although you might want to explore every opportunity to improve the code, the author’s patience is finite. They might grow frustrated if you withhold approval for too long, because you keep thinking of new ways for them to improve the code.
-
-## Don’t overwhelm
-
-Authors may feel overwhelmed if you provide too much feedback at once. Limit your feedback to necessary things and focus on the most important things.
+Although you might want to explore every opportunity to improve the code, the author’s patience is finite. They might grow frustrated if you withhold approval for too long, because you keep thinking of new ways for them to improve the code. Also don’t too much feedback, as authors may feel overwhelmed if you provide too much feedback at once. Limit your feedback to necessary things and focus on the most important things.
 
 ## Respect the scope
 
@@ -40,3 +36,9 @@ Use full sentences to express your suggestions and provide necessary details and
 ## Be specific
 
 Instead of asking open or unbounded changes like “Add more tests”, elaborate on what exactly can be improved or is missing.
+
+## Don't nitpick
+
+Invest author's and reviewers's resources on issues worth solving.
+This prevents frustration and allows you to deliver value sooner.
+If you feel something is worth changing, don't reduce your feedback by adding something like "nitpick". See [Parkinson's law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality)
