@@ -25,6 +25,7 @@ Explain both your suggested change and the reason for the change. Grounding your
 ## 6) Make the code better, not perfect
 
 Although you might want to explore every opportunity to improve the code, the author’s patience is finite and might be overwhelmed. They might grow frustrated if you withhold approval for too long, because you keep thinking of new ways to improve the code, which slows down the process and is usually not a good enough investment of your resources. Focus on the important things.
+See [Parkinson's law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality).
 
 ## 7) Respect the scope
 
@@ -43,4 +44,4 @@ Instead of asking open or unbounded changes like “Add more tests”, elaborate
 
 Invest author's and reviewers's resources on issues worth solving.
 This prevents frustration and allows you to deliver value sooner.
-If you feel something is worth changing, don't reduce your feedback by adding something like "nitpick". See [Parkinson's law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality)
+If you feel something is worth changing, don't reduce your feedback by adding something like "nitpick".
