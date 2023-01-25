@@ -1,21 +1,18 @@
 ## Don’t focus on style
 
 Agree on a consistent style guide and let formatters do the checking.
-
-Reasoning: Style is subjective and does not bring value if it is not consistent.
+Style is subjective and does not bring value if it is not consistent.
 Agreeing on a style guide and using formatters to check for consistency ensures that code reviews are focused on the code's functionality and purpose rather than its style
 
 ## Offer examples
 
-Instead of instructing the author what to do, provide examples or even code.
-
-Reasoning: Providing examples helps to avoid misunderstandings and makes it easier to understand, accept and implement the requested changes.
+Instead of instructing the author what to do, provide specfic examples or even code.
+Providing examples helps to avoid misunderstandings and makes it easier to understand, accept and implement the requested changes.
 
 ## Don’t use ‘you’
 
 Word your feedback in a way that minimizes the risk of raising your teammate’s defenses. Be clear that you’re critiquing the code, not the coder.
-
-Reasoning: Using ‘you’ increases the risk that they’ll take your criticism personally. Consider using ‘we’ as it stresses the shared code-ownership.
+Using ‘you’ increases the risk that they’ll take your criticism personally. Consider using ‘we’ as it stresses the shared code-ownership.
 
 ## Frame feedback as requests, not commands
 
@@ -23,26 +20,24 @@ Requests make it easier for the author to push back politely. They may have a go
 
 ## Tie notes to principles, not opinions
 
-Explain both your suggested change and the reason for the change. Grounding your notes on principles frames the discussion in a constructive way. Provide supporting evidence where possible in the form of links.
+Explain both your suggested change and the reason for the change. Grounding your notes on principles frames the discussion in a constructive way. Provide supporting evidence where possible in the form of links, so the author can learn more about the principle if unfamilar with it.
 
 ## Make the code better, not perfect
 
-Although you might want to explore every opportunity to improve the code, the author’s patience is finite. They might grow frustrated if you withhold approval for too long, because you keep thinking of new ways for them to improve the code. Also don’t give too much feedback, as authors may feel overwhelmed if you provide too much feedback at once. Limit your feedback to necessary things and focus on the most important things.
+Although you might want to explore every opportunity to improve the code, the author’s patience is finite and might be overwhelmed. They might grow frustrated if you withhold approval for too long, because you keep thinking of new ways to improve the code, which slows down the process and is usually not a good enough investment of your resources. Focus on the important things.
 
 ## Respect the scope
 
-In order to keep reviews and changes small, don’t review code that is out of scope of this changelist.
-Grant approval as soon as possible
-
-Don’t withhold your approval if there are only minor changes left and trust that the author will consider your feedback and work it in if they agree with it. Don’t be the last cruel gatekeeper who upholds code quality as there will be situations when you can’t be there.
+In order to keep reviews and changes small, don’t review code that is out of scope of this change.
+Grant approval as soon as possible. Don’t withhold your approval if there are only minor changes left and trust that the author will consider your feedback and work it in if they agree with it. Don’t be the last cruel gatekeeper who upholds code quality as there will be situations when you can’t be there or others will do the review.
 
 ## Be inclusive
 
-Use full sentences to express your suggestions and provide necessary details and context. Doing so allows others to join the discussion easily and better understand your arguments. This allows them to make informed decisions.
+Use full sentences to express your suggestions and provide necessary details and context. This is more respectful and doing so allows others to join the discussion easily and better understand your arguments. This allows them to make informed decisions.
 
 ## Be specific
 
-Instead of asking open or unbounded changes like “Add more tests”, elaborate on what exactly can be improved or is missing.
+Instead of asking open or unbounded changes like “Add more tests”, elaborate on what exactly can be improved or is missing so the author does not need to guess and avoid doing the wrong. Ideally offer examples (See above).
 
 ## Don't nitpick
 
