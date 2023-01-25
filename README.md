@@ -1,13 +1,15 @@
 ## Don’t focus on style
 
-Agree on a consistent style guide and let formatters do the checking to avoid subjectivity.
+Agree on a consistent style guide and let formatters do the checking.
 
 Reasoning: Style is subjective and does not bring value if it is not consistent.
 Agreeing on a style guide and using formatters to check for consistency ensures that code reviews are focused on the code's functionality and purpose rather than its style
 
 ## Offer examples
 
-Instead of instructing the author what to do, provide example-code. This speeds up the process and avoids misunderstandings.
+Instead of instructing the author what to do, provide examples or even code.
+
+Reasoning: Providing examples helps to avoid misunderstandings and makes it easier to understand, accept and implement the requested changes.
 
 ## Don’t use ‘you’
 
