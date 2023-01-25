@@ -6,7 +6,7 @@ Agreeing on a style guide and using formatters to check for consistency ensures 
 
 ## 2) Offer examples
 
-Instead of instructing the author what to do, provide specfic examples or even code.
+Instead of instructing the author what to do, provide specific examples or even code.
 Providing examples helps to avoid misunderstandings and makes it easier to understand, accept and implement the requested changes.
 
 ## 3) Don’t use ‘you’
