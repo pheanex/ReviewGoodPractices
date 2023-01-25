@@ -24,7 +24,7 @@ Explain both your suggested change and the reason for the change. Grounding your
 
 ## 6) Make the code better, not perfect
 
-Although you might want to explore every opportunity to improve the code, the author’s patience is finite and might be overwhelmed. They might grow frustrated if you withhold approval for too long, because you keep thinking of new ways to improve the code, which slows down the process and is usually not a good enough investment of your resources. Focus on the important things.
+Although you might want to explore every opportunity to improve the code, the author’s patience is finite and might be overwhelmed. They might grow frustrated if you withhold approval for too long, because you keep thinking of new ways to improve the code, it slows down the process and usually is not a good enough investment of your resources. Focus on the important things.
 See [Parkinson's law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality).
 
 ## 7) Respect the scope
