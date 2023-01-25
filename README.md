@@ -1,6 +1,9 @@
 ## Don’t focus on style
 
-Style is subjective and does not bring value if it is not consistent. Agree on a style guide and let formatters do the checking.
+Agree on a consistent style guide and let formatters do the checking to avoid subjectivity.
+
+Reasoning: Style is subjective and does not bring value if it is not consistent.
+Agreeing on a style guide and using formatters to check for consistency ensures that code reviews are focused on the code's functionality and purpose rather than its style
 
 ## Offer examples
 
