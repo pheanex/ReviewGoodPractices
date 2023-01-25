@@ -13,7 +13,9 @@ Reasoning: Providing examples helps to avoid misunderstandings and makes it easi
 
 ## Don’t use ‘you’
 
-Word your feedback in a way that minimizes the risk of raising your teammate’s defenses. Be clear that you’re critiquing the code, not the coder. Using ‘you’ increases the risk that they’ll take your criticism personally. Consider using ‘we’ as it stresses the shared code-ownership.
+Word your feedback in a way that minimizes the risk of raising your teammate’s defenses. Be clear that you’re critiquing the code, not the coder.
+
+Reasoning: Using ‘you’ increases the risk that they’ll take your criticism personally. Consider using ‘we’ as it stresses the shared code-ownership.
 
 ## Frame feedback as requests, not commands
 
