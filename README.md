@@ -1,4 +1,4 @@
-## <a id="dont-focus-on-style"></a>1) Don’t focus on style
+## 1) Don’t focus on style
 
 Agree on a consistent style guide and let formatters do the checking.
 Style is subjective and does not bring value if it is not consistent.
