@@ -45,3 +45,8 @@ Instead of asking open or unbounded changes like “Add more tests”, elaborate
 Invest author's and reviewers's resources on issues worth solving.
 This prevents frustration and allows you to deliver value sooner.
 If you feel something is worth changing, don't reduce your feedback by adding something like "nitpick".
+
+## 11. Switch to Face-to-Face
+
+If there are too many issues or too much back and forth in written communication, switch to face-to-face communication. Cooperation, finding solutions, common understanding, and compromises are usually more efficient that way.
+
