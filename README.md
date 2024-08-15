@@ -1,52 +1,44 @@
 ## 1. Don’t focus on style
 
-Agree on a consistent style guide and let formatters do the checking.
-Style is subjective and does not bring value if it is not consistent.
-Agreeing on a style guide and using formatters to check for consistency ensures that code reviews are focused on the code's functionality and purpose rather than its style.
+Agree on a consistent style guide and let formatters handle the checking. Style is subjective and offers little value unless it is consistent. By agreeing on a style guide and using formatters for consistency, code reviews can focus on functionality and purpose rather than style.
 
 ## 2. Offer examples
 
-Instead of instructing the author what to do, provide specific examples or even code.
-Providing examples helps to avoid misunderstandings and makes it easier to understand, accept and implement the requested changes.
+Instead of instructing the author on what to do, provide specific examples or code. Examples help avoid misunderstandings and make it easier to understand, accept, and implement the requested changes.
 
 ## 3. Don’t use ‘you’
 
-Word your feedback in a way that minimizes the risk of raising your teammate’s defenses. Be clear that you’re critiquing the code, not the coder.
-Using ‘you’ increases the risk that they’ll take your criticism personally. Consider using ‘we’ as it stresses the shared code-ownership.
+Phrase your feedback to minimize the risk of raising your teammate’s defenses. Make it clear that you are critiquing the code, not the coder. Using ‘you’ increases the risk that the recipient will take your criticism personally. Consider using ‘we’ to emphasize shared code ownership.
 
 ## 4. Frame feedback as requests, not commands
 
-Requests make it easier for the author to push back politely. They may have a good reason for their choice. If you frame your feedback as a command, any pushback from the author comes across as disobedience. If you frame your feedback as a request or a question, the author can simply answer you.
+Requests make it easier for the author to respond politely. They may have valid reasons for their choices. Framing your feedback as a command can make any pushback seem like disobedience. Framing it as a request or question allows the author to respond more openly.
 
 ## 5. Tie notes to principles, not opinions
 
-Explain both your suggested change and the reason for the change. Grounding your notes on principles frames the discussion in a constructive way. Provide supporting evidence where possible in the form of links, so the author can learn more about the principle if unfamilar with it.
+Explain both your suggested changes and the reasons behind them. Grounding your notes in principles frames the discussion constructively. Provide supporting evidence, such as links, so the author can learn more about the principle if they are unfamiliar with it.
 
 ## 6. Make the code better, not perfect
 
-Although you might want to explore every opportunity to improve the code, the author’s patience is finite and might be overwhelmed. They might grow frustrated if you withhold approval for too long, because you keep thinking of new ways to improve the code, it slows down the process and usually is not a good enough investment of your resources. Focus on the important things.
-See [Parkinson's law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality).
+While it is tempting to explore every opportunity to improve the code, the author's patience is finite and may wear thin. They could become frustrated if you withhold approval for too long while you keep finding new ways to improve the code. This can slow down the process and may not be the best use of your resources. Focus on the important issues. See [Parkinson's law of triviality](https://en.wikipedia.org/wiki/Law_of_triviality).
 
 ## 7. Respect the scope
 
-In order to keep reviews and changes small, don’t review code that is out of scope of this change.
-Grant approval as soon as possible. Don’t withhold your approval if there are only minor changes left and trust that the author will consider your feedback and work it in if they agree with it. Don’t be the last cruel gatekeeper who upholds code quality as there will be situations when you can’t be there or others will do the review.
+To keep reviews and changes manageable, avoid reviewing code that is outside the scope of the current change. Grant approval as soon as possible. Do not withhold approval for minor changes, and trust that the author will incorporate your feedback if they agree. Avoid being the last gatekeeper who enforces code quality strictly, as there will be times when you cannot be present or others will handle the review.
 
 ## 8. Be inclusive
 
-Use full sentences to express your suggestions and provide necessary details and context. This is more respectful and doing so allows others to join the discussion easily and better understand your arguments. This allows them to make informed decisions.
+Use full sentences to express your suggestions and provide necessary details and context. This approach is more respectful and helps others join the discussion easily and understand your arguments better. It also allows them to make informed decisions.
 
 ## 9. Be specific
 
-Instead of asking open or unbounded changes like “Add more tests”, elaborate on what exactly can be improved or is missing so the author does not need to guess and avoid doing the wrong. Ideally offer examples (See above).
+Instead of requesting open-ended changes like “Add more tests,” specify what exactly can be improved or what is missing, so the author does not have to guess. Ideally, offer examples (see above).
 
 ## 10. Don't nitpick
 
-Invest author's and reviewers's resources on issues worth solving.
-This prevents frustration and allows you to deliver value sooner.
-If you feel something is worth changing, don't reduce your feedback by adding something like "nitpick".
+Invest the author's and reviewers' resources in issues worth solving. This prevents frustration and allows you to deliver value more quickly. If you believe something is worth changing, avoid labeling your feedback as a "nitpick."
 
 ## 11. Switch to Face-to-Face
 
-If there are too many issues or too much back and forth in written communication, switch to face-to-face communication. Cooperation, finding solutions, common understanding, and compromises are usually more efficient that way.
+If there are too many issues or excessive back-and-forth in written communication, switch to face-to-face communication. Cooperation, finding solutions, and reaching common understanding and compromises are usually more efficient this way.
 
